@@ -1,8 +1,5 @@
-# DBMS-Mini-Project
+# Student Notes Management System
 
-Members-
+developed as a part of academic mini project for 6th semester
 
-RA1911003010069- Kevin T Jinu
-
-
-RA1911003010070- S. Deepak Shrinivas
+Web portal where students can access notes and also upload notes of the subjects they are studying. This can be useful for the students staying at home due to the pandemic 
